@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cookie-clicker-project/static/css/main.c862c50a.css",
-    "main.js": "/cookie-clicker-project/static/js/main.a09d1cb5.js",
+    "main.css": "/cookie-clicker-project/static/css/main.4709c749.css",
+    "main.js": "/cookie-clicker-project/static/js/main.39c1529c.js",
     "static/media/chimes.mp3": "/cookie-clicker-project/static/media/chimes.1a04e6a1db991c38dc09.mp3",
     "static/media/pop_1.mp3": "/cookie-clicker-project/static/media/pop_1.2ee409fa60ad765f3b8d.mp3",
     "static/media/pop_3.mp3": "/cookie-clicker-project/static/media/pop_3.eb273e0677c18f04efbd.mp3",
     "static/media/pop_4.mp3": "/cookie-clicker-project/static/media/pop_4.cafdb53ca3518910f634.mp3",
     "static/media/pop_2.mp3": "/cookie-clicker-project/static/media/pop_2.c2627883720efa56669c.mp3",
     "index.html": "/cookie-clicker-project/index.html",
-    "main.c862c50a.css.map": "/cookie-clicker-project/static/css/main.c862c50a.css.map",
-    "main.a09d1cb5.js.map": "/cookie-clicker-project/static/js/main.a09d1cb5.js.map"
+    "main.4709c749.css.map": "/cookie-clicker-project/static/css/main.4709c749.css.map",
+    "main.39c1529c.js.map": "/cookie-clicker-project/static/js/main.39c1529c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c862c50a.css",
-    "static/js/main.a09d1cb5.js"
+    "static/css/main.4709c749.css",
+    "static/js/main.39c1529c.js"
   ]
 }
